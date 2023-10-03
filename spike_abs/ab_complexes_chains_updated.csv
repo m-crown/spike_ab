@@ -1,0 +1,739 @@
+pdb,species,name,structure,auth_id,chain_id
+7E23,SARS CoV 2,SARS CoV 2 Spike protein S1,Spike,A,A
+7E39,SARS CoV 2,SARS CoV 2 Spike protein S1,Spike,A,A
+7E86,SARS CoV 2,SARS CoV 2 Spike protein S1,Spike,C,A
+7E88,SARS CoV 2,SARS CoV 2 Spike protein S1,Spike,CFIL,CFIL
+2DD8,SARS CoV,SARS CoV Spike glycoprotein,Spike,C,C
+2GHW,SARS CoV,SARS CoV Spike glycoprotein,Spike,AC,AC
+3BGF,SARS CoV,SARS CoV Spike protein S1,Spike,AB,AB
+4XAK,MERS CoV,MERS CoV Spike glycoprotein,Spike,AB,AD
+4ZPT,MERS CoV,MERS CoV Spike glycoprotein,Spike,CE,CE
+4ZPV,MERS CoV,MERS CoV Spike glycoprotein,Spike,CD,CD
+4ZS6,MERS CoV,MERS CoV S protein,Spike,AB,CF
+5DO2,MERS CoV,MERS CoV S protein,Spike,AB,AD
+5GMQ,MERS CoV,MERS CoV S protein,Spike,A,A
+5W9H,MERS CoV,MERS CoV S,Spike,ADGJKL,ADGJKL
+5W9I,MERS CoV,MERS CoV Spike glycoprotein,Spike,ABEFIJ,ABEFIJ
+5W9J,MERS CoV,MERS CoV Spike glycoprotein,Spike,ADGJKL,ADGJKL
+5W9K,MERS CoV,MERS CoV Spike glycoprotein,Spike,ADGJKL,ADGJKL
+5W9L,MERS CoV,MERS CoV Spike glycoprotein,Spike,ABCDGJ,ABEHIJ
+5W9M,MERS CoV,MERS CoV Spike glycoprotein,Spike,ADEFGJ,ADEHIJ
+5W9N,MERS CoV,MERS CoV S,Spike,ADGHIJ,ADGHIJ
+5W9O,MERS CoV,MERS CoV Spike glycoprotein,Spike,ADGJKL,ADGJKL
+5W9P,MERS CoV,MERS CoV Spike glycoprotein,Spike,ABCHIJ,ABEFIJ
+5YY5,MERS CoV,MERS-CoV RBD,Spike,AB,AB
+5ZXV,MERS CoV,MERS-CoV RBD,Spike,AB,AB
+6C6Y,MERS CoV,MERS CoV Spike glycoprotein,Spike,EF,EF
+6C6Z,MERS CoV,MERS CoV Spike protein,Spike,AB,AB
+6J11,MERS CoV,MERS CoV N-terminal domain of Spike glycoprotein,Spike,ABC,ABC
+6NB3,MERS CoV,MERS CoV Spike glycoprotein,Spike,ABC,AFG
+6NB4,MERS CoV,MERS CoV Spike glycoprotein,Spike,ABC,ABC
+6NB6,MERS CoV,MERS CoV Spike glycoprotein,Spike,ABC,ABC
+6NB7,MERS CoV,MERS CoV Spike glycoprotein,Spike,ABC,ABC
+6PXH,MERS CoV,MERS-CoV S1-NTD,Spike,AB,AB
+6PZ8,MERS CoV,MERS CoV S protein,Spike,AEIBFJ,AEIBFJ
+6W41,SARS CoV 2,SARS CoV 2 Spike protein S1,Spike,C,C
+6WAQ,SARS CoV,SARS CoV Spike glycoprotein,Spike,BD,BD
+6WAR,MERS CoV,MERS CoV Spike protein,Spike,ACEGIKMO,ACEGIKMO
+6WPS,SARS CoV 2,SARS CoV 2 spike glycoprotein,Spike,ABE,ADG
+6WPT,SARS CoV 2,SARS CoV 2 spike glycoprotein,Spike,ABC,ABC
+6XC2,SARS CoV 2,SARS CoV 2 Spike protein S1,Spike,AZ,AD
+6XC3,SARS CoV 2,SARS CoV 2 Spike protein S1,Spike,C,E
+6XC4,SARS CoV 2,SARS CoV 2 Spike protein S1,Spike,AZ,AD
+6XC7,SARS CoV 2,SARS Cov 2 Spike protein S1,Spike,A,A
+6XCM,SARS CoV 2,SARS CoV 2 Spike glycoprotein,Spike,ABC,ABC
+6XCN,SARS CoV 2,SARS CoV 2 Spike glycoprotein,Spike,ACE,ABC
+6XDG,SARS CoV 2,SARS CoV 2 Spike protein S1,Spike,E,A
+6XE1,SARS CoV 2,SARS CoV 2 Spike protein S1,Spike,E,C
+6XEY,SARS CoV 2,SARS CoV 2 Spike glycoprotein,Spike,ABC,ABC
+6XKP,SARS CoV 2,SARS CoV 2 Spike protein S1,Spike,AB,AB
+6XKQ,SARS CoV 2,SARS CoV 2 Spike protein S1,Spike,A,A
+6YLA,SARS CoV 2,SARS CoV 2 Spike glycoprotein,Spike,AE,AD
+6YM0,SARS CoV 2,SARS CoV 2 Spike glycoprotein,Spike,E,A
+6YOR,SARS CoV 2,SARS CoV 2 Spike glycoprotein,Spike,AE,AD
+6YZ5,SARS CoV 2,SARS CoV 2 Spike glycoprotein,Spike,E,A
+6Z2M,SARS CoV 2,SARS CoV 2 Spike glycoprotein,Spike,AE,AD
+6Z43,SARS CoV 2,SARS CoV 2 Spike glycoprotein,Spike,ABC,ABC
+6ZBP,SARS CoV 2,SARS CoV 2 Spike glycoprotein,Spike,E,A
+6ZCZ,SARS CoV 2,SARS CoV 2 Spike protein S1,Spike,E,A
+6ZDG,SARS CoV 2,SARS CoV 2 Spike protein S1,Spike,ADE,ADG
+6ZDH,SARS CoV 2,SARS CoV 2 Spike glycoprotein,Spike,ABC,ABC
+6ZER,SARS CoV 2,SARS CoV 2 Spike protein S1,Spike,ADE,ADG
+6ZFO,SARS CoV 2,SARS CoV 2 Spike protein S1,Spike,AE,AD
+6ZH9,SARS CoV 2,Spike glycoprotein,Spike,E,C
+6ZHD,SARS CoV 2,"Spike glycoprotein,Fibritin",Spike,ABC,ABC
+6ZXN,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7A25,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7A29,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7A5R,SARS CoV 2,Spike glycoprotein,Spike,AB,CD
+7A5S,SARS CoV 2,Spike glycoprotein,Spike,AB,CE
+7AKD,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7AKJ,SARS CoV,Spike glycoprotein,Spike,ABC,ABG
+7B0B,SARS CoV 2,Surface glycoprotein,Spike,F,C
+7B14,SARS CoV 2,Spike protein S1,Spike,A,A
+7B17,SARS CoV 2,Spike protein S1,Spike,A,A
+7B18,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7B3O,SARS CoV 2,Spike protein S1,Spike,E,A
+7BEH,SARS CoV 2,Spike glycoprotein,Spike,E,A
+7BEI,SARS CoV 2,Spike glycoprotein,Spike,E,C
+7BEJ,SARS CoV 2,Spike glycoprotein,Spike,E,C
+7BEK,SARS CoV 2,Spike glycoprotein,Spike,E,C
+7BEL,SARS CoV 2,Spike glycoprotein,Spike,RX,AF
+7BEM,SARS CoV 2,Spike glycoprotein,Spike,E,C
+7BEN,SARS CoV 2,Spike glycoprotein,Spike,CE,AF
+7BEO,SARS CoV 2,Spike glycoprotein,Spike,AF,AF
+7BEP,SARS CoV 2,Spike glycoprotein,Spike,CE,AF
+7BNV,SARS CoV 2,Surface glycoprotein,Spike,A,A
+7BWJ,SARS CoV 2,Spike protein S1,Spike,E,A
+7BYR,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7BZ5,SARS CoV 2,Spike protein S1,Spike,A,A
+7C01,SARS CoV 2,Spike protein S1,Spike,AB,AD
+7C2L,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7C8V,SARS CoV 2,Spike protein S1,Spike,B,B
+7C8W,SARS CoV 2,Spike protein S1,Spike,B,B
+7CAC,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7CAH,SARS CoV 2,Spike protein S1,Spike,A,C
+7CAI,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7CAK,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7CAN,SARS CoV 2,Spike protein S1,Spike,B,B
+7CDI,SARS CoV 2,Spike protein S1,Spike,E,A
+7CDJ,SARS CoV 2,Spike protein S1,Spike,E,A
+7CH4,SARS CoV 2,Spike protein S1,Spike,R,C
+7CH5,SARS CoV 2,Spike protein S1,Spike,R,C
+7CHB,SARS CoV 2,Spike protein S1,Spike,R,C
+7CHC,SARS CoV 2,Spike protein S1,Spike,R,C
+7CHE,SARS CoV 2,Spike protein S1,Spike,R,C
+7CHF,SARS CoV 2,Spike protein S1,Spike,R,C
+7CHH,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7CHO,SARS CoV 2,Spike protein S1,Spike,AE,AD
+7CHP,SARS CoV 2,Spike protein S1,Spike,E,A
+7CHS,SARS CoV 2,Spike protein S1,Spike,E,A
+7CJF,SARS CoV 2,Spike protein S1,Spike,C,C
+7CM4,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7COE,MERS CoV,Spike glycoprotein,Spike,AD,CF
+7CWL,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7CWM,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7CWN,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7CWO,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7CWS,SARS CoV 2,Spike glycoprotein,Spike,OQR,MNO
+7CWT,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7CWU,SARS CoV 2,Spike glycoprotein,Spike,ABC,GHI
+7CYH,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7CYP,SARS CoV 2,SARS-CoV-2 Spike glycoprotein,Spike,ABC,ABC
+7CYV,SARS CoV 2,Spike protein S1,Spike,B,B
+7CZP,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7CZQ,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7CZR,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7CZS,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7CZT,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7CZU,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7CZV,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7CZW,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7CZX,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7CZY,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7CZZ,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7D00,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7D03,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7D0B,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7D0C,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7D0D,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABG
+7D2Z,SARS CoV 2,Spike protein S1,Spike,B,B
+7D30,SARS CoV 2,Spike protein S1,Spike,B,B
+7D4G,SARS CoV 2,Spike glycoprotein S1,Spike,B,A
+7D6I,SARS CoV 2,Spike protein S1,Spike,A,A
+7DCC,SARS CoV 2,Spike glycoprotein,Spike,EIK,DGH
+7DCX,SARS CoV 2,Spike glycoprotein,Spike,CDK,CHI
+7DD2,SARS CoV 2,Spike glycoprotein,Spike,CDK,ABE
+7DD8,SARS CoV 2,Spike glycoprotein,Spike,CDE,CDE
+7DEO,SARS CoV 2,Spike protein S1,Spike,BD,BD
+7DET,SARS CoV 2,Spike protein S1,Spike,AC,AC
+7DEU,SARS CoV 2,Spike protein S1,Spike,A,A
+7DJZ,SARS CoV 2,Spike protein S1,Spike,C,C
+7DK0,SARS CoV 2,Spike protein S1,Spike,C,C
+7DK2,SARS CoV 2,Spike protein S1,Spike,CFIL,CFIL
+7DK4,SARS CoV 2,Spike glycoprotein,Spike,ABC,CDE
+7DK5,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABE
+7DK6,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7DK7,SARS CoV 2,Spike glycoprotein,Spike,ABC,CDI
+7DPM,SARS CoV 2,Spike protein S1,Spike,CFIL,CFIL
+7DX4,SARS CoV 2,Spike protein S1,Spike,E,B
+7DZX,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7DZY,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7E3B,SARS CoV 2,Spike protein S1,Spike,A,A
+7E3C,SARS CoV 2,Spike protein S1,Spike,A,A
+7E3K,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7E3L,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7E3O,SARS CoV 2,Spike protein S1,Spike,R,C
+7E5O,SARS CoV 2,Spike protein S1,Spike,A,C
+7E5R,SARS CoV 2,Spike glycoprotein,Spike,ABC,GNU
+7E5S,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7E5Y,SARS CoV 2,Spike protein S1,Spike,AR,AD
+7E7X,SARS CoV 2,Spike protein S1,Spike,AB,AD
+7E7Y,SARS CoV 2,Spike protein S1,Spike,ER,CF
+7E8C,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7E8F,SARS CoV 2,Spike protein S1,Spike,AR,AH
+7E8M,SARS CoV 2,Spike protein S1,Spike,E,A
+7E9N,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7E9O,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7E9P,SARS CoV 2,Spike glycoprotein,Spike,B,A
+7E9Q,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7EAM,SARS CoV 2,Spike protein S1,Spike,AB,AD
+7EAN,SARS CoV 2,Spike protein S1,Spike,A,A
+7EH5,SARS CoV 2,Spike glycoprotein,Spike,ABC,AJK
+7EJ4,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7EJ5,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7EJY,SARS CoV 2,Spike protein S1,Spike,A,A
+7EJZ,SARS CoV 2,Spike protein S1,Spike,A,A
+7EK0,SARS CoV 2,Spike protein S1,Spike,A,A
+7ENF,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7ENG,SARS CoV 2,Spike glycoprotein,Spike,B,C
+7EPX,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7EY0,SARS CoV 2,Spike glycoprotein,Spike,NR,DF
+7EY5,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7EYA,SARS CoV 2,Spike glycoprotein,Spike,RN,AD
+7EZV,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7F0X,SARS CoV 2,Spike protein S1,Spike,A,A
+7F12,SARS CoV 2,Spike protein S1,Spike,A,A
+7F15,SARS CoV 2,Spike protein S1,Spike,A,A
+7F3Q,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7F46,SARS CoV 2,Spike glycoprotein,Spike,BC,AB
+7F5G,SARS CoV 2,Spike glycoprotein,Spike,AC,AC
+7F5H,SARS CoV 2,SARS-CoV-2 Spike Receptor-Binding Domain (RBD),Spike,AB,AB
+7F62,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7F63,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7F6Y,SARS CoV 2,Spike protein S1,Spike,R,A
+7F6Z,SARS CoV 2,Spike protein S1,Spike,R,A
+7F7E,SARS CoV 2,Spike protein S1,Spike,E,C
+7F7H,SARS CoV 2,Spike glycoprotein S1,Spike,EF,CF
+7FAE,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7FAF,SARS CoV 2,Spike glycoprotein,Spike,ABC,AHI
+7FAT,SARS CoV 2,Spike protein S1,Spike,A,A
+7FAU,SARS CoV 2,Spike protein S1,Spike,AC,AC
+7FCP,SARS CoV 2,Spike protein S1,Spike,A,A
+7FCQ,SARS CoV 2,Spike protein S1,Spike,A,A
+7FG2,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7FG3,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7FJC,SARS CoV 2,Spike protein S1,Spike,E,C
+7FJN,SARS CoV 2,"Spike glycoprotein,Envelope glycoprotein",Spike,ABC,ABC
+7FJO,SARS CoV 2,Spike glycoprotein,Spike,ABC,GHI
+7FJS,SARS CoV 2,Spike protein S1,Spike,BE,BE
+7JMO,SARS CoV 2,Spike protein S1,Spike,A,A
+7JMP,SARS CoV 2,Spike protein S1,Spike,A,A
+7JMW,SARS CoV 2,Spike protein S1,Spike,A,A
+7JN5,SARS CoV,Spike glycoprotein,Spike,F,C
+7JV2,SARS CoV 2,Spike glycoprotein,Spike,A,C
+7JV4,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7JV6,SARS CoV 2,Spike glycoprotein,Spike,ABE,ADG
+7JVA,SARS CoV 2,Spike glycoprotein,Spike,A,C
+7JVB,SARS CoV 2,Spike protein S1,Spike,AB,AC
+7JVC,SARS CoV 2,Spike glycoprotein,Spike,ABE,ADG
+7JW0,SARS CoV 2,Spike glycoprotein,Spike,ABE,ADG
+7JWB,SARS CoV 2,Spike glycoprotein,Spike,ABC,BCD
+7JX3,SARS CoV 2,Spike protein S1,Spike,R,G
+7K43,SARS CoV 2,Spike glycoprotein,Spike,ABE,ADG
+7K45,SARS CoV 2,Spike glycoprotein,Spike,B,C
+7K4N,SARS CoV 2,Spike glycoprotein,Spike,ABE,ADG
+7K8M,SARS CoV 2,Spike glycoprotein,Spike,E,C
+7K8S,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7K8T,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7K8U,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7K8V,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7K8W,SARS CoV 2,Spike glycoprotein,Spike,ABG,ABC
+7K8X,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7K8Y,SARS CoV 2,Spike glycoprotein,Spike,BDE,ABC
+7K8Z,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7K90,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7K9H,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7K9I,SARS CoV 2,Spike protein S1,Spike,A,A
+7K9J,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7K9K,SARS CoV 2,Spike protein S1,Spike,A,A
+7K9Z,SARS CoV 2,Spike protein S1,Spike,E,E
+7KFV,SARS CoV 2,Spike glycoprotein,Spike,ABE,ABE
+7KFW,SARS CoV 2,Spike glycoprotein,Spike,ABE,ABE
+7KFX,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7KFY,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7KGJ,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7KGK,SARS CoV 2,Spike protein S1,Spike,A,A
+7KKK,SARS CoV 2,Spike glycoprotein,Spike,ACE,ACE
+7KKL,SARS CoV 2,Spike glycoprotein,Spike,ACD,ACE
+7KLG,SARS CoV 2,Spike glycoprotein,Spike,AB,EF
+7KLH,SARS CoV 2,Spike glycoprotein,Spike,AB,EF
+7KLW,SARS CoV 2,Spike protein S1,Spike,A,A
+7KM5,SARS CoV 2,Spike protein S1,Spike,AB,AB
+7KMG,SARS CoV 2,Spike protein S1,Spike,CF,CF
+7KMH,SARS CoV 2,Spike protein S1,Spike,C,C
+7KMI,SARS CoV 2,Spike protein S1,Spike,C,C
+7KMK,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7KML,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7KN3,SARS CoV 2,Spike protein S1,Spike,AB,AB
+7KN4,SARS CoV 2,Spike protein S1,Spike,AB,AB
+7KN5,SARS CoV 2,Spike protein S1,Spike,AB,AB
+7KN6,SARS CoV 2,Spike protein S1,Spike,A,A
+7KN7,SARS CoV 2,Spike protein S1,Spike,A,A
+7KQB,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7KQE,SARS CoV 2,Spike glycoprotein,Spike,ABC,CDE
+7KS9,SARS CoV 2,Spike glycoprotein,Spike,ABC,CDE
+7KSG,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7KXJ,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7KXK,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7KZB,SARS CoV 2,Spike glycoprotein,Spike,C,C
+7L02,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7L06,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7L09,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7L0N,SARS CoV 2,Spike protein S1,Spike,RS,KL
+7L2C,SARS CoV 2,Spike glycoprotein,Spike,AB,AB
+7L2D,SARS CoV 2,Spike glycoprotein,Spike,ABC,ADE
+7L2E,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7L2F,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7L3N,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7L56,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7L57,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7L58,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7L5B,SARS CoV 2,Spike protein S1,Spike,A,A
+7L7D,SARS CoV 2,Spike protein S1,Spike,E,C
+7L7E,SARS CoV 2,Spike protein S1,Spike,GKSb,QRST
+7LAA,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABE
+7LAB,SARS CoV 2,Spike glycoprotein,Spike,ABC,EFG
+7LCN,SARS CoV 2,Spike glycoprotein,Spike,ACK,ADG
+7LD1,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7LDJ,SARS CoV 2,Spike glycoprotein,Spike,ABCD,ABCD
+7LJR,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7LM8,SARS CoV 2,Spike protein S1,Spike,A,A
+7LM9,SARS CoV,Spike glycoprotein,Spike,A,A
+7LOP,SARS CoV 2,Spike protein S1,Spike,AZ,EJ
+7LQ7,SARS CoV 2,Spike protein S1,Spike,ABE,ABE
+7LQV,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7LQW,SARS CoV 2,Spike glycoprotein,Spike,ABC,CDE
+7LRS,SARS CoV 2,Spike glycoprotein,Spike,C,A
+7LRT,SARS CoV 2,SARS-CoV-2 spike glycoprotein,Spike,ABC,GHI
+7LS9,SARS CoV 2,Spike glycoprotein,Spike,ABC,ADG
+7LSS,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7LX5,SARS CoV 2,Spike glycoprotein,Spike,B,A
+7LXW,SARS CoV 2,Spike glycoprotein,Spike,A,C
+7LXX,SARS CoV 2,Spike glycoprotein,Spike,A,C
+7LXY,SARS CoV 2,Spike glycoprotein,Spike,ABJ,AFK
+7LXZ,SARS CoV 2,Spike glycoprotein,Spike,ABK,AFK
+7LY0,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7LY2,SARS CoV 2,Spike glycoprotein,Spike,ABJ,AFK
+7LY3,SARS CoV 2,Spike protein S1,Spike,AB,AB
+7M3I,SARS CoV 2,Spike protein S1,Spike,CR,CF
+7M42,SARS CoV 2,Spike protein S1,Spike,E,C
+7M53,SARS CoV 2,Spike glycoprotein stem helix peptide,Spike,A,A
+7M55,MERS CoV,Spike glycoprotein stem helix peptide,Spike,A,A
+7M6D,SARS CoV 2,Spike protein S1,Spike,C,C
+7M6E,SARS CoV 2,Spike glycoprotein,Spike,ABE,ABD
+7M6F,SARS CoV 2,Spike glycoprotein,Spike,ABE,ABE
+7M6G,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7M6H,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7M6I,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7M71,SARS CoV 2,Spike glycoprotein,Spike,AB,AB
+7M7B,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7M7W,SARS CoV 2,Spike protein S1,Spike,RS,IJ
+7M8J,SARS CoV 2,Spike protein S1,Spike,A,A
+7MDW,SARS CoV 2,Spike protein S1,Spike,R,B
+7ME7,SARS CoV 2,Spike protein S1,Spike,R,A
+7MEJ,SARS CoV 2,Spike protein S1,Spike,R,B
+7MF1,SARS CoV 2,Spike protein S1,Spike,A,A
+7MFU,SARS CoV 2,Spike protein S1,Spike,AD,AD
+7MJH,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7MJI,SARS CoV 2,Spike glycoprotein,Spike,B,A
+7MJJ,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7MJK,SARS CoV 2,Spike glycoprotein,Spike,ABC,AHI
+7MJL,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7MKL,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7MKM,SARS CoV 2,Spike protein S1,Spike,A,A
+7MLZ,SARS CoV 2,Spike protein S1,Spike,A,A
+7MM0,SARS CoV 2,Spike glycoprotein,Spike,ABC,CDE
+7MMO,SARS CoV 2,Spike protein S1,Spike,CF,CF
+7MSQ,SARS CoV 2,Spike protein S1,Spike,AB,AB
+7MW2,SARS CoV 2,Spike glycoprotein,Spike,ABC,ADG
+7MW3,SARS CoV 2,Spike glycoprotein,Spike,ABC,CDG
+7MW4,SARS CoV 2,Spike glycoprotein,Spike,ABC,ADG
+7MW5,SARS CoV 2,Spike glycoprotein,Spike,ABC,CDG
+7MW6,SARS CoV 2,Spike glycoprotein,Spike,ABC,AFG
+7MXP,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7MY2,SARS CoV 2,Spike glycoprotein,Spike,BCE,ABC
+7MY3,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7MZF,SARS CoV 2,Spike protein S1,Spike,A,A
+7MZG,SARS CoV 2,Spike protein S1,Spike,A,C
+7MZH,SARS CoV 2,Spike protein S1,Spike,AE,AD
+7MZI,SARS CoV 2,Spike protein S1,Spike,A,C
+7MZJ,SARS CoV 2,Spike protein S1,Spike,AB,CF
+7MZK,SARS CoV 2,Spike protein S1,Spike,AB,BE
+7MZL,SARS CoV 2,Spike protein S1,Spike,A,A
+7MZM,SARS CoV 2,Spike protein S1,Spike,A,C
+7MZN,SARS CoV 2,Spike protein S1,Spike,A,A
+7N0G,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7N0H,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7N3I,SARS CoV 2,Spike protein S1,Spike,C,A
+7N4I,SARS CoV 2,Spike protein S1,Spike,C,C
+7N4J,SARS CoV 2,Spike protein S1,Spike,A,A
+7N4L,SARS CoV 2,Spike protein S1,Spike,A,A
+7N4M,SARS CoV 2,Spike protein S1,Spike,A,B
+7N5H,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7N62,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7N64,SARS CoV 2,Spike glycoprotein,Spike,AB,AB
+7N8H,SARS CoV 2,Spike glycoprotein,Spike,AFK,AFK
+7N8I,SARS CoV 2,Spike glycoprotein,Spike,A,C
+7N9A,SARS CoV 2,Spike protein S1,Spike,E,B
+7N9B,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7N9C,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7N9E,SARS CoV 2,Spike glycoprotein,Spike,ABC,BCD
+7N9T,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7NAB,SARS CoV 2,Spike protein S2,Spike,CD,EF
+7ND3,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7ND4,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7ND5,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7ND6,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7ND7,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7ND8,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7ND9,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7NDA,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7NDB,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7NDC,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7NDD,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7NEG,SARS CoV 2,Surface glycoprotein,Spike,E,C
+7NEH,SARS CoV 2,Spike glycoprotein,Spike,E,C
+7NLL,SARS CoV 2,Surface glycoprotein,Spike,BD,AB
+7NP1,SARS CoV 2,Spike protein S1,Spike,ABCD,ABCD
+7NS6,SARS CoV 2,"Spike glycoprotein,Fibritin",Spike,IJKLMN,GHIJKL
+7NTC,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7NX6,SARS CoV 2,Spike protein S1,Spike,E,C
+7NX7,SARS CoV 2,Spike protein S1,Spike,E,C
+7NX8,SARS CoV 2,Spike protein S1,Spike,E,C
+7NX9,SARS CoV 2,Spike protein S1,Spike,E,C
+7NXA,SARS CoV 2,Spike protein S1,Spike,E,C
+7NXB,SARS CoV 2,Spike protein S1,Spike,E,C
+7NY5,SARS CoV 2,Spike glycoprotein,Spike,AEG,AEG
+7OAN,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7OLZ,SARS CoV 2,Spike protein S1,Spike,A,C
+7OR9,SARS CoV 2,Spike protein S1,Spike,E,A
+7ORA,SARS CoV 2,Spike protein S1,Spike,CR,AF
+7ORB,SARS CoV 2,Spike protein S1,Spike,RX,AF
+7P40,SARS CoV 2,Spike glycoprotein,Spike,AEG,AEG
+7P77,SARS CoV 2,Spike glycoprotein,Spike,BCE,ABC
+7P78,SARS CoV 2,Spike glycoprotein,Spike,ACE,ABC
+7P79,SARS CoV 2,Spike glycoprotein,Spike,ACE,ABC
+7P7A,SARS CoV 2,Spike glycoprotein,Spike,BCE,ABC
+7PHG,SARS CoV 2,Surface glycoprotein,Spike,A,A
+7PQY,SARS CoV 2,Spike protein S1,Spike,AE,AB
+7PQZ,SARS CoV 2,Spike protein S1,Spike,E,A
+7PR0,SARS CoV 2,Spike protein S1,Spike,ADE,ADG
+7PRY,SARS CoV 2,Spike protein S1,Spike,EI,EJ
+7PRZ,SARS CoV 2,Spike protein S1,Spike,E,B
+7PS0,SARS CoV 2,Spike protein S1,Spike,AE,AD
+7PS1,SARS CoV 2,Spike protein S1,Spike,E,A
+7PS2,SARS CoV 2,Spike protein S1,Spike,G,B
+7PS4,SARS CoV 2,Spike protein S1,Spike,AE,AD
+7PS5,SARS CoV 2,Spike protein S1,Spike,E,C
+7PS6,SARS CoV 2,Spike protein S1,Spike,E,C
+7PS7,SARS CoV 2,Spike protein S1,Spike,ER,AB
+7Q0A,SARS CoV 2,"Spike glycoprotein,Spike ectodomain,Spike protein S2'",Spike,ABC,ABC
+7Q0G,SARS CoV 2,Spike protein S1,Spike,E,A
+7Q0H,SARS CoV 2,Spike protein S1,Spike,E,E
+7Q0I,SARS CoV 2,Spike protein S1,Spike,CD,EF
+7Q3Q,SARS CoV 2,Spike glycoprotein,Spike,A,B
+7Q3R,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7Q6E,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7Q9F,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7Q9G,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7Q9I,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7Q9J,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7Q9K,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7Q9M,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7Q9P,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7QEZ,SARS CoV 2,Spike protein S1,Spike,A,A
+7QF0,SARS CoV 2,Spike protein S1,Spike,A,A
+7QF1,SARS CoV 2,Spike protein S1,Spike,AF,AB
+7QNX,SARS CoV 2,Surface glycoprotein,Spike,E,E
+7QNY,SARS CoV 2,Surface glycoprotein,Spike,E,C
+7QTI,SARS CoV 2,"Spike glycoprotein,Envelope glycoprotein",Spike,ADK,IJK
+7QTJ,SARS CoV 2,Surface glycoprotein,Spike,AD,CD
+7QTK,SARS CoV 2,Surface glycoprotein,Spike,D,A
+7R40,SARS CoV 2,Spike glycoprotein,Spike,ABC,ADG
+7R4I,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7R4Q,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7R4R,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7R6W,SARS CoV 2,Spike protein S1,Spike,R,E
+7R6X,SARS CoV 2,Spike protein S1,Spike,R,C
+7R7N,SARS CoV 2,Spike glycoprotein,Spike,E,B
+7R8L,SARS CoV 2,Spike protein S1,Spike,E,C
+7R8M,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7R8N,SARS CoV 2,Spike glycoprotein,Spike,ABE,ABC
+7R8O,SARS CoV 2,Spike glycoprotein,Spike,ABE,ABC
+7RA8,SARS CoV 2,Spike glycoprotein,Spike,ABE,ADG
+7RAL,SARS CoV 2,Spike glycoprotein,Spike,B,C
+7RAQ,SARS CoV 2,spike stem helix peptide,Spike,P,C
+7RBU,SARS CoV 2,Spike protein S1,Spike,B,A
+7RBV,SARS CoV 2,Spike glycoprotein,Spike,ABC,CFG
+7RBY,SARS CoV 2,Spike protein S1,Spike,AC,AC
+7RKS,SARS CoV 2,Spike protein S1,Spike,RS,EF
+7RKU,SARS CoV 2,Spike protein S1,Spike,ABCD,ABCD
+7RKV,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7RNJ,SARS CoV 2,Spike glycoprotein stem helix peptide,Spike,B,C
+7RQ6,SARS CoV 2,Spike glycoprotein,Spike,ABC,ADG
+7RR0,SARS CoV 2,Spike protein S1,Spike,A,A
+7RU3,SARS CoV 2,Spike glycoprotein,Spike,ABC,CDE
+7RU4,SARS CoV 2,Spike glycoprotein,Spike,A,C
+7RU5,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7RU8,SARS CoV 2,Spike glycoprotein,Spike,C,C
+7RW2,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7RXD,SARS CoV 2,Spike protein S1,Spike,R,E
+7S0B,SARS CoV 2,Spike protein S1,Spike,EF,EF
+7S0C,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7S0D,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7S0E,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7S3M,MERS CoV,Spike glycoprotein,Spike,A,A
+7S3N,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7S4S,SARS CoV 2,Spike protein S1,Spike,A,A
+7S5P,SARS CoV 2,Spike protein S1,Spike,A,A
+7S5Q,SARS CoV 2,Spike protein S1,Spike,A,A
+7S5R,SARS CoV 2,Spike protein S1,Spike,A,A
+7S6J,SARS CoV 2,Spike glycoprotein,Spike,ABE,ADG
+7S6K,SARS CoV 2,Spike glycoprotein,Spike,ABE,ADG
+7S6L,SARS CoV 2,Spike glycoprotein,Spike,ABC,ADE
+7SBU,SARS CoV 2,Spike protein S1,Spike,A,A
+7SC1,SARS CoV 2,Spike glycoprotein,Spike,ABC,ADG
+7SD5,SARS CoV 2,Spike protein S1,Spike,A,A
+7SG4,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7SI2,SARS CoV 2,Spike protein S1,Spike,ABC,GHI
+7SIX,SARS CoV 2,Spike glycoprotein,Spike,AB,AB
+7SJ0,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7SJS,SARS CoV 2,stem helix peptide of Spike protein S2',Spike,C,C
+7SL5,SARS CoV 2,PRO-SER-LYS-ARG-SER-PHE-ILE-GLU-ASP-LEU-LEU-PHE-ASN,Spike,CFIL,CFIL
+7SN2,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7SN3,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7SO9,SARS CoV 2,Spike glycoprotein,Spike,AFK,AFK
+7SOA,SARS CoV 2,Spike glycoprotein,Spike,A,C
+7SOB,SARS CoV 2,Spike glycoprotein,Spike,ADK,AFK
+7SOC,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7SOD,SARS CoV 2,Spike glycoprotein,Spike,A,C
+7SWN,SARS CoV 2,Spike protein S1,Spike,A,A
+7SWO,SARS CoV 2,Spike protein S1,Spike,A,A
+7SWP,SARS CoV 2,Spike protein S1,Spike,A,A
+7SWW,SARS CoV 2,Spike protein S1,Spike,A,A
+7SWX,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7T01,SARS CoV 2,Spike protein S1,Spike,A,A
+7T3M,SARS CoV 2,Spike glycoprotein,Spike,ACG,ABD
+7T7B,SARS CoV 2,Spike protein S1,Spike,A,A
+7TAS,SARS CoV 2,Spike glycoprotein,Spike,E,C
+7TAT,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7TB8,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7TBF,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7TCA,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7TCC,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7TE1,SARS CoV 2,Spike protein S1,Spike,DE,EF
+7THE,SARS CoV 2,Spike protein S1,Spike,A,A
+7THT,SARS CoV 2,Spike glycoprotein,Spike,CSV,ABC
+7TLY,SARS CoV 2,Spike glycoprotein,Spike,I,C
+7TLZ,SARS CoV 2,Spike glycoprotein,Spike,J,C
+7TM0,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7TOW,SARS CoV 2,Spike protein S2,Spike,DE,EF
+7TP3,SARS CoV 2,Spike protein S1,Spike,Z,A
+7TP4,SARS CoV 2,Spike protein S1,Spike,Z,A
+7TPR,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7U09,SARS CoV 2,SARS-CoV-2 S fusion peptide,Spike,A,C
+7U0A,SARS CoV 2,SARS-CoV-2 S fusion peptide,Spike,A,A
+7U2D,SARS CoV 2,Spike protein S1,Spike,A,A
+7U2E,SARS CoV 2,Spike protein S1,Spike,A,A
+7U9O,SARS CoV 2,Spike glycoprotein,Spike,AB,AB
+7U9P,SARS CoV 2,Spike glycoprotein,Spike,AB,AB
+7UAP,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7UAQ,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7UAR,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7UPL,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7UPW,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7UPX,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7UPY,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7URQ,SARS CoV 2,Spike protein S1,Spike,A,A
+7URS,SARS CoV 2,Spike protein S1,Spike,A,A
+7UZ4,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7UZ5,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7UZ6,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7UZ7,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7UZ8,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7UZ9,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7UZA,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7UZB,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7V23,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7V24,SARS CoV 2,Spike glycoprotein,Spike,A,C
+7V26,SARS CoV 2,Spike glycoprotein,Spike,ACE,ABC
+7V27,SARS CoV 2,Spike protein S1,Spike,C,A
+7V2A,SARS CoV 2,Spike glycoprotein,Spike,ABC,ADE
+7V3L,MERS CoV,Spike glycoprotein,Spike,ABC,ABC
+7V5J,MERS CoV,Spike glycoprotein,Spike,ABC,ABC
+7V5K,MERS CoV,Spike glycoprotein,Spike,ABC,ABC
+7V6N,MERS CoV,Spike glycoprotein,Spike,ABC,ABC
+7V6O,MERS CoV,Spike glycoprotein,Spike,ABC,ABC
+7VMU,SARS CoV 2,Spike protein S1,Spike,B,B
+7VNB,SARS CoV 2,Spike protein S1,Spike,B,B
+7VNC,SARS CoV 2,Spike glycoprotein,Spike,ABC,ACD
+7VND,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7VNE,SARS CoV 2,Spike glycoprotein,Spike,ABC,ACE
+7VOA,SARS CoV 2,Spike glycoprotein,Spike,B,B
+7VQ0,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7VYR,SARS CoV 2,Spike protein S1,Spike,CR,CF
+7W1S,SARS CoV 2,Spike protein S1,Spike,A,A
+7W9E,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7W9F,SARS CoV 2,Spike protein S1,Spike,E,C
+7WB5,SARS CoV 2,Surface glycoprotein,Spike,R,C
+7WBH,SARS CoV,Spike glycoprotein,Spike,ABC,ABC
+7WBZ,SARS CoV 2,Spike protein S1,Spike,A,A
+7WCD,SARS CoV 2,Spike glycoprotein,Spike,CHJ,ADG
+7WCR,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7WCZ,SARS CoV 2,Spike glycoprotein,Spike,ABC,ADE
+7WD0,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WD7,SARS CoV 2,Spike glycoprotein,Spike,ABC,ADG
+7WD8,SARS CoV 2,Spike glycoprotein,Spike,AB,AD
+7WD9,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WDF,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WE7,SARS CoV 2,Spike glycoprotein,Spike,DEG,CDE
+7WE8,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WE9,SARS CoV 2,Spike glycoprotein,Spike,ABF,ABC
+7WEA,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WEB,SARS CoV 2,Spike glycoprotein,Spike,BCD,EFG
+7WEC,SARS CoV 2,Spike glycoprotein,Spike,ABC,GHI
+7WEE,SARS CoV 2,Spike glycoprotein,Spike,E,A
+7WHI,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WHJ,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WHK,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WHZ,SARS CoV 2,Spike protein S1,Spike,A,A
+7WJY,SARS CoV 2,Spike glycoprotein,Spike,ADG,ADG
+7WJZ,SARS CoV 2,Spike glycoprotein,Spike,BIJKLM,ADGJMP
+7WK8,SARS CoV 2,Spike glycoprotein,Spike,AB,CD
+7WK9,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABE
+7WKA,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABE
+7WLY,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WLZ,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WM0,SARS CoV 2,Spike glycoprotein,Spike,B,A
+7WO4,SARS CoV 2,Spike glycoprotein,Spike,ABCJKL,ABCJKL
+7WO5,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WO7,SARS CoV 2,Spike protein S1,Spike,C,C
+7WOA,SARS CoV 2,Spike glycoprotein,Spike,ACE,ABC
+7WOB,SARS CoV 2,Spike glycoprotein,Spike,ACE,ABC
+7WOC,SARS CoV 2,Spike protein S1,Spike,C,A
+7WON,SARS CoV 2,Spike protein S1,Spike,F,A
+7WOQ,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WOR,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WOS,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WOU,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WOV,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WOW,SARS CoV 2,Spike glycoprotein,Spike,ABCJKL,ABCJKL
+7WP0,SARS CoV 2,Spike protein S1,Spike,F,C
+7WP1,SARS CoV 2,Spike protein S1,Spike,F,C
+7WP2,SARS CoV 2,Spike protein S1,Spike,F,C
+7WPD,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WPE,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WPF,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WPH,SARS CoV 2,Spike protein S1,Spike,AB,AB
+7WRO,SARS CoV 2,Spike protein S1,Spike,R,C
+7WRV,SARS CoV 2,Spike glycoprotein,Spike,C,A
+7WRY,SARS CoV 2,Spike protein S1,Spike,R,A
+7WS0,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WS1,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WS2,SARS CoV 2,Spike protein S1,Spike,A,B
+7WS3,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WS4,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WS5,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WS7,SARS CoV 2,Spike protein S1,Spike,B,A
+7WUE,SARS CoV 2,Spike protein S1,Spike,AB,AD
+7WUH,SARS CoV 2,Spike glycoprotein,Spike,ACE,ABC
+7WVL,SARS CoV 2,Spike protein S1,Spike,F,C
+7WWL,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7WWM,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7X08,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7X29,MERS CoV,Spike glycoprotein,Spike,ABC,ABC
+7X2A,MERS CoV,MERS-CoV Spike glycoprotein,Spike,ABC,ABC
+7X2L,SARS CoV 2,Spike protein S1,Spike,E,A
+7X6A,SARS CoV 2,Spike glycoprotein,Spike,ABD,ABC
+7X7D,SARS CoV 2,Spike protein S1,Spike,ADE,ACE
+7X7E,SARS CoV 2,Spike protein S1,Spike,CDF,ABE
+7X7O,SARS CoV 2,Spike protein S1,Spike,ABCD,ABCD
+7X7T,SARS CoV 2,Spike protein S1,Spike,G,A
+7X7U,SARS CoV 2,Spike protein S1,Spike,G,A
+7X8W,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7X8Y,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7X8Z,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7X90,SARS CoV 2,Spike glycoprotein,Spike,G,C
+7X91,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7X92,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7X9E,SARS CoV 2,Spike peptide,Spike,EF,EF
+7XCO,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7XH8,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7XIC,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7XMX,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7XMZ,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7XOD,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7XRP,SARS CoV 2,Spike protein S1,Spike,AF,AC
+7XST,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7XXL,SARS CoV 2,Spike protein S1,Spike,B,C
+7YDI,SARS CoV 2,Spike protein S1,Spike,E,B
+7YDY,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7YE5,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7YE9,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7YEG,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7YQX,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7YQY,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7YQZ,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+7YR1,SARS CoV 2,Spike glycoprotein,Spike,ABC,ADG
+7Z0X,SARS CoV 2,Spike protein S1,Spike,C,C
+7Z0Y,SARS CoV 2,Spike protein S1,Spike,C,C
+7Z1A,SARS CoV 2,Spike protein S1,Spike,AC,AD
+7Z1B,SARS CoV 2,Spike protein S1,Spike,AC,AD
+7Z1C,SARS CoV 2,Spike protein S1,Spike,AC,AD
+7Z6V,SARS CoV 2,"Spike glycoprotein,Fibritin",Spike,ABC,ABC
+7Z7X,SARS CoV 2,"Spike glycoprotein,Fibritin",Spike,ABC,ABC
+7Z85,SARS CoV 2,"Spike glycoprotein,Fibritin",Spike,ABC,ABC
+7Z86,SARS CoV 2,"Spike glycoprotein,Fibritin",Spike,ABC,ABC
+7Z9Q,SARS CoV 2,"Spike glycoprotein,Fibritin",Spike,ABC,ABC
+7Z9R,SARS CoV 2,"Spike glycoprotein,Fibritin",Spike,ABC,ABC
+7ZBU,SARS CoV 2,Spike glycoprotein,Spike,A,A
+7ZCE,SARS CoV 2,"Spike glycoprotein,Fibritin",Spike,ABC,ABC
+7ZCF,SARS CoV 2,"Spike glycoprotein,Fibritin",Spike,C,A
+7ZFC,SARS CoV 2,Spike protein S1,Spike,E,F
+7ZR7,SARS CoV 2,"Spike glycoprotein,Fibritin",Spike,ABC,ABC
+7ZR8,SARS CoV 2,"Spike glycoprotein,Fibritin",Spike,A,A
+7ZR9,SARS CoV 2,"Spike glycoprotein,Fibritin",Spike,ABC,ABC
+7ZRC,SARS CoV 2,"Spike glycoprotein,Fibritin",Spike,ABC,ABC
+8CWU,SARS CoV 2,Spike protein S1,Spike,A,A
+8CWV,SARS CoV 2,Spike protein S1,Spike,A,A
+8CXN,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+8CXQ,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+8CY6,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+8CY7,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+8CY9,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+8CYA,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+8CYB,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+8CYC,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+8CYD,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+8CYJ,SARS CoV 2,Spike glycoprotein,Spike,R,E
+8D36,SARS CoV 2,Spike protein S2 fusion peptide,Spike,F,C
+8D6Z,SARS CoV 2,Spike protein S2 fusion peptide,Spike,HJKL,HJKL
+8D8Q,SARS CoV 2,Spike glycoprotein,Spike,A,C
+8D8R,SARS CoV 2,Spike glycoprotein,Spike,A,C
+8DAD,SARS CoV 2,Spike glycoprotein,Spike,B,C
+8DAO,SARS CoV 2,Spike protein S2 fusion peptide,Spike,IJ,EJ
+8DCC,SARS CoV 2,Spike protein S1,Spike,E,A
+8DCE,SARS CoV 2,Spike protein S1,Spike,A,B
+8DF5,SARS CoV 2,Spike protein S1,Spike,RS,KL
+8DI5,SARS CoV 2,Spike glycoprotein,Spike,C,A
+8DLR,SARS CoV 2,Spike glycoprotein,Spike,A,A
+8DLS,SARS CoV 2,Spike glycoprotein,Spike,A,A
+8DLW,SARS CoV 2,Spike glycoprotein,Spike,ABE,ABE
+8DLY,SARS CoV 2,Spike glycoprotein,Spike,C,A
+8DM0,SARS CoV 2,Spike glycoprotein,Spike,C,A
+8DT3,SARS CoV 2,Spike glycoprotein,Spike,C,A
+8DTR,SARS CoV 2,Spike protein S2' stem helix peptide,Spike,GJ,CF
+8DTT,SARS CoV 2,Spike protein S2' stem helix peptide,Spike,GJ,CF
+8DTX,SARS CoV 2,Spike protein S2' stem helix peptide,Spike,GI,CF
+8DW2,SARS CoV 2,Spike protein S1,Spike,B,B
+8DW3,SARS CoV 2,Spike protein S1,Spike,B,B
+8DW9,SARS CoV 2,Spike protein S1,Spike,AB,AB
+8DWA,SARS CoV 2,Spike protein S1,Spike,A,A
+8DXS,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+8DZH,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+8DZI,SARS CoV 2,Spike glycoprotein,Spike,ACE,ADG
+8ERQ,SARS CoV 2,Spike glycoprotein,Spike,A,C
+8ERR,SARS CoV 2,Spike glycoprotein,Spike,ABC,ABC
+8GX9,SARS CoV 2,Spike protein S1,Spike,AE,AB
+8GZ5,SARS CoV 2,Spike protein S1,Spike,A,A

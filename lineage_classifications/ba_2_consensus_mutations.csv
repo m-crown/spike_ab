@@ -1,0 +1,70 @@
+,description,nt_aa_compound,count,sample_count,lineage
+17,3'-to-5' exonuclease,A18163G_I42V,486,500,ba_2
+72,3C-like proteinase,C10449A_P132H,500,500,ba_2
+73,3C-like proteinase,G10447A_R131R,500,500,ba_2
+74,3C-like proteinase,C10198T_D48D,499,500,ba_2
+119,ORF3a protein,C26060T_T223I,500,500,ba_2
+120,ORF3a protein,C25584T_T64T,499,500,ba_2
+185,ORF6 protein,A27259C_R20R,498,500,ba_2
+186,ORF6 protein,GAT27382CTC_D61L,496,500,ba_2
+292,ORF7b,C27807T_L18L,500,500,ba_2
+330,RNA-dependent RNA polymerase,C14408T_P323L,500,500,ba_2
+331,RNA-dependent RNA polymerase,C15714T_L758L,500,500,ba_2
+433,envelope protein,C26270T_T9I,493,500,ba_2
+439,helicase,C17410T_R392C,500,500,ba_2
+490,leader protein,T670G_S135R,487,500,ba_2
+568,membrane glycoprotein,C26858T_F112F,499,500,ba_2
+569,membrane glycoprotein,G26709A_A63T,499,500,ba_2
+570,membrane glycoprotein,C26577G_Q19E,485,500,ba_2
+707,nsp3,G4184A_G489S,500,500,ba_2
+708,nsp3,C3037T_F106F,499,500,ba_2
+709,nsp3,C2790T_T24I,498,500,ba_2
+710,nsp3,C4321T_A534A,498,500,ba_2
+946,nsp4,C10029T_T492I,498,500,ba_2
+947,nsp4,C9344T_L264F,498,500,ba_2
+948,nsp4,C9866T_L438F,497,500,ba_2
+949,nsp4,A9424G_V290V,495,500,ba_2
+950,nsp4,C9534T_T327I,494,500,ba_2
+995,nsp6,GTCTGGTTTT11287G_F108.0del,491,500,ba_2
+996,nsp6,GTCTGGTTTT11287G_G107.0del,491,500,ba_2
+997,nsp6,GTCTGGTTTT11287G_S106del,491,500,ba_2
+1048,nsp9,C12880T_I65I,500,500,ba_2
+1058,nucleocapsid phosphoprotein,GGG28881AAC_G204.0R,500,500,ba_2
+1059,nucleocapsid phosphoprotein,GGG28881AAC_R203K,500,500,ba_2
+1060,nucleocapsid phosphoprotein,C28311T_P13L,499,500,ba_2
+1061,nucleocapsid phosphoprotein,A29510C_S413R,498,500,ba_2
+1062,nucleocapsid phosphoprotein,GGAGAACGCA28361G_E31del,490,500,ba_2
+1063,nucleocapsid phosphoprotein,GGAGAACGCA28361G_R32.0del,490,500,ba_2
+1064,nucleocapsid phosphoprotein,GGAGAACGCA28361G_S33.0del,490,500,ba_2
+1159,surface glycoprotein,A23013C_E484A,500,500,ba_2
+1160,surface glycoprotein,A23403G_D614G,500,500,ba_2
+1161,surface glycoprotein,A24424T_Q954H,500,500,ba_2
+1162,surface glycoprotein,C21618T_T19I,500,500,ba_2
+1163,surface glycoprotein,C22995A_T478K,500,500,ba_2
+1164,surface glycoprotein,C23525T_H655Y,500,500,ba_2
+1165,surface glycoprotein,C23604A_P681H,500,500,ba_2
+1166,surface glycoprotein,G21987A_G142D,500,500,ba_2
+1167,surface glycoprotein,G22992A_S477N,500,500,ba_2
+1168,surface glycoprotein,T23599G_N679K,500,500,ba_2
+1169,surface glycoprotein,T24469A_N969K,500,500,ba_2
+1170,surface glycoprotein,TTACCCCCTG21632T_A27.0del,500,500,ba_2
+1171,surface glycoprotein,TTACCCCCTG21632T_L24S,500,500,ba_2
+1172,surface glycoprotein,TTACCCCCTG21632T_P25.0del,500,500,ba_2
+1173,surface glycoprotein,TTACCCCCTG21632T_P26.0del,500,500,ba_2
+1174,surface glycoprotein,C25000T_D1146D,499,500,ba_2
+1175,surface glycoprotein,G23948T_D796Y,499,500,ba_2
+1176,surface glycoprotein,T22200G_V213G,499,500,ba_2
+1177,surface glycoprotein,A23055G_Q498R,496,500,ba_2
+1178,surface glycoprotein,A23063T_N501Y,496,500,ba_2
+1179,surface glycoprotein,C23854A_N764K,496,500,ba_2
+1180,surface glycoprotein,T23075C_Y505H,496,500,ba_2
+1181,surface glycoprotein,T22882G_N440K,489,500,ba_2
+1182,surface glycoprotein,G22813T_K417N,487,500,ba_2
+1183,surface glycoprotein,A22688G_T376A,477,500,ba_2
+1184,surface glycoprotein,C22686T_S375F,476,500,ba_2
+1185,surface glycoprotein,G22775A_D405N,476,500,ba_2
+1186,surface glycoprotein,T22679C_S373P,475,500,ba_2
+1187,surface glycoprotein,A22786C_R408S,471,500,ba_2
+1188,surface glycoprotein,A23040G_Q493R,468,500,ba_2
+1189,surface glycoprotein,C22674T_S371F,454,500,ba_2
+1190,surface glycoprotein,G22578A_G339D,443,500,ba_2

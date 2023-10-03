@@ -1,0 +1,22 @@
+,description,nt_aa_compound,count,sample_count,lineage
+63,3C-like proteinase,A10323G_K90R,498,500,beta
+102,ORF3a protein,G25563T_Q57H,497,500,beta
+103,ORF3a protein,C25904T_S171L,492,500,beta
+323,envelope protein,C26456T_P71L,497,500,beta
+439,nsp2,C1059T_T85I,498,500,beta
+507,nsp3,C3037T_F106F,500,500,beta
+508,nsp3,G5230T_K837N,492,500,beta
+728,nsp6,GTCTGGTTTT11287G_F108.0del,492,500,beta
+729,nsp6,GTCTGGTTTT11287G_G107.0del,492,500,beta
+730,nsp6,GTCTGGTTTT11287G_S106del,492,500,beta
+779,nucleocapsid phosphoprotein,C28887T_T205I,496,500,beta
+841,surface glycoprotein,A23403G_D614G,500,500,beta
+842,surface glycoprotein,A21801C_D80A,497,500,beta
+843,surface glycoprotein,A22206G_D215G,497,500,beta
+844,surface glycoprotein,C23664T_A701V,497,500,beta
+845,surface glycoprotein,G22813T_K417N,495,500,beta
+846,surface glycoprotein,ACTTTACTTG22280A_A243.0del,447,500,beta
+847,surface glycoprotein,ACTTTACTTG22280A_L241del,447,500,beta
+848,surface glycoprotein,ACTTTACTTG22280A_L242.0del,447,500,beta
+849,surface glycoprotein,A23063T_N501Y,440,500,beta
+850,surface glycoprotein,G23012A_E484K,438,500,beta

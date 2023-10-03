@@ -1,0 +1,31 @@
+,description,nt_aa_compound,count,sample_count,lineage
+321,ORF8 protein,A28111G_Y73C,499,500,alpha
+322,ORF8 protein,C27972T_Q27*,497,500,alpha
+323,ORF8 protein,G28048T_R52I,497,500,alpha
+358,RNA-dependent RNA polymerase,T16176C_T912T,500,500,alpha
+359,RNA-dependent RNA polymerase,C14676T_P412P,499,500,alpha
+360,RNA-dependent RNA polymerase,C14408T_P323L,496,500,alpha
+361,RNA-dependent RNA polymerase,C15279T_H613H,496,500,alpha
+648,nsp2,C913T_S36S,492,500,alpha
+760,nsp3,C5986T_F1089F,499,500,alpha
+761,nsp3,C3037T_F106F,498,500,alpha
+762,nsp3,C3267T_T183I,497,500,alpha
+763,nsp3,C5388A_A890D,496,500,alpha
+764,nsp3,T6954C_I1412T,494,500,alpha
+1120,nsp6,GTCTGGTTTT11287G_F108.0del,500,500,alpha
+1121,nsp6,GTCTGGTTTT11287G_G107.0del,500,500,alpha
+1122,nsp6,GTCTGGTTTT11287G_S106del,500,500,alpha
+1204,nucleocapsid phosphoprotein,GAT28280CTA_D3L,499,500,alpha
+1205,nucleocapsid phosphoprotein,C28977T_S235F,496,500,alpha
+1206,nucleocapsid phosphoprotein,GGG28881AAC_G204.0R,492,500,alpha
+1207,nucleocapsid phosphoprotein,GGG28881AAC_R203K,492,500,alpha
+1298,surface glycoprotein,A23403G_D614G,500,500,alpha
+1299,surface glycoprotein,C23271A_A570D,500,500,alpha
+1300,surface glycoprotein,C23604A_P681H,500,500,alpha
+1301,surface glycoprotein,C23709T_T716I,500,500,alpha
+1302,surface glycoprotein,G24914C_D1118H,500,500,alpha
+1303,surface glycoprotein,T24506G_S982A,499,500,alpha
+1304,surface glycoprotein,ATACATG21764A_H69del,496,500,alpha
+1305,surface glycoprotein,ATACATG21764A_V70.0del,496,500,alpha
+1306,surface glycoprotein,A23063T_N501Y,494,500,alpha
+1307,surface glycoprotein,TTTA21990T_Y144del,484,500,alpha

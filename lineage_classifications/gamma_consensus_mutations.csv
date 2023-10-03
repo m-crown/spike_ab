@@ -1,0 +1,32 @@
+,description,nt_aa_compound,count,sample_count,lineage
+44,ORF3a protein,T26149C_S253P,232,234,gamma
+87,ORF8 protein,G28167A_E92K,233,234,gamma
+102,RNA-dependent RNA polymerase,C14408T_P323L,233,234,gamma
+103,RNA-dependent RNA polymerase,C13860T_D140D,224,234,gamma
+144,helicase,G17259T_E341D,233,234,gamma
+160,leader protein,T733C_D156D,233,234,gamma
+227,nsp3,C3037T_F106F,234,234,gamma
+228,nsp3,A5648C_K977Q,233,234,gamma
+229,nsp3,A6613G_V1298V,232,234,gamma
+230,nsp3,C3828T_S370L,231,234,gamma
+231,nsp3,A6319G_P1200P,230,234,gamma
+232,nsp3,C2749T_D10D,225,234,gamma
+319,nsp6,GTCTGGTTTT11287G_F108.0del,220,234,gamma
+320,nsp6,GTCTGGTTTT11287G_G107.0del,220,234,gamma
+321,nsp6,GTCTGGTTTT11287G_S106del,220,234,gamma
+341,nsp9,C12778T_Y31Y,231,234,gamma
+347,nucleocapsid phosphoprotein,C28512G_P80R,233,234,gamma
+348,nucleocapsid phosphoprotein,GGG28881AAC_G204.0R,233,234,gamma
+349,nucleocapsid phosphoprotein,GGG28881AAC_R203K,233,234,gamma
+386,surface glycoprotein,A23403G_D614G,234,234,gamma
+387,surface glycoprotein,A22812C_K417T,233,234,gamma
+388,surface glycoprotein,C24642T_T1027I,233,234,gamma
+389,surface glycoprotein,C21614T_L18F,232,234,gamma
+390,surface glycoprotein,C21621A_T20N,232,234,gamma
+391,surface glycoprotein,C21638T_P26S,232,234,gamma
+392,surface glycoprotein,G21974T_D138Y,232,234,gamma
+393,surface glycoprotein,G25088T_V1176F,231,234,gamma
+394,surface glycoprotein,A23063T_N501Y,229,234,gamma
+395,surface glycoprotein,G23012A_E484K,228,234,gamma
+396,surface glycoprotein,C23525T_H655Y,227,234,gamma
+397,surface glycoprotein,G22132T_R190S,217,234,gamma
